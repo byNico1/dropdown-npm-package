@@ -1,0 +1,20 @@
+{
+  "name": "@nikofoque/dropdown-package",
+  "version": "1.0.0",
+  "description": "dropdown menu basic package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nicolas Forero Quevedo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/byNico1/dropdown-npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byNico1/dropdown-npm-package/issues"
+  },
+  "homepage": "https://github.com/byNico1/dropdown-npm-package#readme"
+}
